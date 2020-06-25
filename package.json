@@ -1,0 +1,44 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "ag-charts-community": "^1.1.0",
+    "ag-charts-react": "^1.1.0",
+    "ag-grid-community": "^23.0.2",
+    "ag-grid-react": "^23.0.3",
+    "antd": "^4.2.0",
+    "chart.js": "^2.9.3",
+    "customize-cra": "^0.9.1",
+    "moment": "^2.25.3",
+    "react": "16.12.0",
+    "react-app-rewired": "^2.1.6",
+    "react-chartjs": "^1.2.0",
+    "react-dom": "16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.0.1",
+    "request": "^2.79.0",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.0",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
